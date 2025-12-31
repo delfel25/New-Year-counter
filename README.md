@@ -1,5 +1,4 @@
 <p align="center">
-[![Go Version](https://img.shields.io/badge/Go-1.20+-00ADD8?style=flat&logo=go)](https://go.dev/) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
