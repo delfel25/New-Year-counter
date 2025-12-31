@@ -1,0 +1,11 @@
+main
+*.log
+*.tmp
+main.exe
+New-Year-counter
+New-Year-counter.exe
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
