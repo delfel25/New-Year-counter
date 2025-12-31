@@ -38,7 +38,7 @@ Follow these steps to get the counter running:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/delfel25/New-Year-counter.git](https://github.com/delfel25/New-Year-counter.git)
+git clone https://github.com/delfel25/New-Year-counter.git
 
 # 2. Enter the directory
 cd New-Year-counter
