@@ -6,7 +6,7 @@
 ![photo of what it looks like](img/mainphoto.png)
 
 ---
-* ![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=flat&logo=go&logoColor=white) * ![Terminal](https://img.shields.io/badge/Platform-Terminal-4D4D4D?style=flat&logo=gnumetiterminal&logoColor=white)
+ ![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Terminal](https://img.shields.io/badge/Platform-Terminal-4D4D4D?style=flat&logo=gnumetiterminal&logoColor=white)
 
 
 ### Requirements
